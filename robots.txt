@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.g-long.com.tw/sitemap.xml
